@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>479</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QMainWindow { background-color: #F0F0F0; }</string>
+  </property>
+  <widget class="QLabel" name="deliver_text">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>30</y>
+     <width>131</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>의약품 배송 입력</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="deliver_text1">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>170</y>
+     <width>389</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#deliver_text1{font-size: 24px; font-family: 'Arial';}</string>
+   </property>
+   <property name="text">
+    <string>배송 대상 물품</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="deliver_text2">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>310</y>
+     <width>389</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#deliver_text2{font-size: 24px; font-family: 'Arial';}</string>
+   </property>
+   <property name="text">
+    <string>목적지</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="completion_button">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>427</y>
+     <width>93</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{border: 2px solid black; ;}
+#completion_image{font-size: 24px; font-family: 'Arial';}
+QPushButton:hover {
+background-color: skyblue;
+}</string>
+   </property>
+   <property name="text">
+    <string>완료</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="navigation_image">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>93</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#navigation_image{border-image: url(:/home/home.png)}</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="medical_text">
+   <property name="geometry">
+    <rect>
+     <x>740</x>
+     <y>10</y>
+     <width>51</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#medical_text{border: 1px solid black;}</string>
+   </property>
+   <property name="text">
+    <string>환자</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="deliver_announcement">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>90</y>
+     <width>511</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#deliver_announcement{font-size: 24px; font-family: 'Arial';}</string>
+   </property>
+   <property name="text">
+    <string>배송 대상 물품과 목적지를 확인해주십시오.</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox">
+   <property name="geometry">
+    <rect>
+     <x>53</x>
+     <y>230</y>
+     <width>300</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>Normal Saline</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Fluid</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Needle</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Syringe</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Kelly</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Scissors</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Mess</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QComboBox" name="comboBox_2">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>370</y>
+     <width>300</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>주사실</string>
+    </property>
+   </item>
+  </widget>
+ </widget>
+ <resources>
+  <include location="home.qrc"/>
+ </resources>
+ <connections/>
+</ui>

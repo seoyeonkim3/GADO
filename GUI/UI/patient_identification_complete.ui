@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="identification_text1">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>140</y>
+     <width>261</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#identification_text1{font-size: 24px; font-family: 'Arial';}</string>
+   </property>
+   <property name="text">
+    <string>신원이 확인되었습니다.</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="identification_text2">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>220</y>
+     <width>311</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#identification_text2{font-size: 24px; font-family: 'Arial';}</string>
+   </property>
+   <property name="text">
+    <string>아래 신분증을 찾아가주세요.</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="identification_text3">
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>320</y>
+     <width>291</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#identification_text3{font-size: 24px; font-family: 'Arial';}</string>
+   </property>
+   <property name="text">
+    <string>이용해주셔서 감사합니다.</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="back_text">
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>430</y>
+     <width>300</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>20초 뒤 자동으로 홈화면으로 돌아갑니다.</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="navigation_image">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>71</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#navigation_image{border-image: url(:/home/home.png);}</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="navigation_text">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>20</y>
+     <width>64</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>길찾기</string>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="home.qrc"/>
+ </resources>
+ <connections/>
+</ui>
