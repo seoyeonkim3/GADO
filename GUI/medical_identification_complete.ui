@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QMainWindow { background-color: #F0F0F0; }</string>
+  </property>
+  <widget class="QLabel" name="identification_text">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>30</y>
+     <width>64</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>신원 확인</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="medical_text">
+   <property name="geometry">
+    <rect>
+     <x>740</x>
+     <y>10</y>
+     <width>51</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#medical_text{border: 1px solid #000000;}</string>
+   </property>
+   <property name="text">
+    <string>환자</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="face_text1">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>20</y>
+     <width>311</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#face_text1{font-size: 24px; font-family: 'Arial';}</string>
+   </property>
+   <property name="text">
+    <string>신원 확인이 완료되었습니다.</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="record_image">
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>210</y>
+     <width>211</width>
+     <height>201</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#record_image{border-image: url(:/record/record.png);}</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="face_text2">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>120</y>
+     <width>401</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#face_text2{font-size: 24px; font-family: 'Arial';}</string>
+   </property>
+   <property name="text">
+    <string>배송하려는 의약품을 말씀해주세요.</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="record_text3">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>20</y>
+     <width>247</width>
+     <height>161</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#record_text3{font-size: 24px; font-family: 'Arial';}</string>
+   </property>
+   <property name="text">
+    <string>. . .</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="navigation_image">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>93</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#navigation_image{border-image: url(:/home/home.png);}</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="home.qrc"/>
+ </resources>
+ <connections/>
+</ui>

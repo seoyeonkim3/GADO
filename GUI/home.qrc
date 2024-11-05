@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="home">
+    <file>home.png</file>
+  </qresource>
+  <qresource prefix="record">
+    <file>record.png</file>
+  </qresource>
+  <qresource prefix="direction">
+    <file>direction_4.png</file>
+    <file>direction_3.png</file>
+    <file>direction_2.png</file>
+    <file>direction_1.png</file>
+  </qresource>
+  <qresource prefix="map">
+    <file>imaging.png</file>
+    <file>pharmacy.png</file>
+    <file>injection.png</file>
+  </qresource>
+</RCC>
