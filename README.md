@@ -10,7 +10,7 @@
    </br>
    __O__: Optimal
 
-   병원 내에서 Guide와 Deliver을 Autonomous하게 수행하여 Optimal한 서비스를 제공하는 병원 토탈 서비스 로봇을 개발하였습니다.
+   병원 내에서 **Guide**와 **Deliver**을 **Autonomous**하게 수행하여 **Optimal**한 서비스를 제공하는 병원 토탈 서비스 로봇을 개발하였습니다.
    
  - 팀원
    <table>
