@@ -38,8 +38,11 @@
 프로젝트명: __SLAM을 활용한 병원 자율주행 서비스 로봇__
 
 [프로젝트 설명 ppt 링크](https://github.com/seoyeonkim3/GADO/blob/ec8f1770334069e1337b5ce424ee6e2b23e48f90/files/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EB%AA%85%20ppt.pdf)
-
-- 포스토에 표현되지 못한 ppt 내용
+  <p align="left">
+   <img src="https://github.com/seoyeonkim3/GADO/blob/6175a989c0037cbc7e111a0f0d418acc410898df/files/%ED%91%9C%EC%A7%80.jpg" align="center" width="32%">
+   <img src="https://github.com/seoyeonkim3/GADO/blob/6175a989c0037cbc7e111a0f0d418acc410898df/files/%EB%AA%A9%EC%B0%A8.jpg" align="center" width="32%">
+   <figcaption align="center">
+  </p>
   <p align="left">
    <img src="https://github.com/seoyeonkim3/GADO/blob/3773453a75eecfab58e8182787328e46987bde49/files/2.3%20%EB%8B%A4%ED%95%99%EC%A0%9C%EC%A0%81%20%EC%A0%91%EA%B7%BC1.jpg" align="center" width="32%">
    <img src="https://github.com/seoyeonkim3/GADO/blob/3773453a75eecfab58e8182787328e46987bde49/files/2.3%20%EB%8B%A4%ED%95%99%EC%A0%9C%EC%A0%81%20%EC%A0%91%EA%B7%BC2.jpg" align="center" width="32%">
