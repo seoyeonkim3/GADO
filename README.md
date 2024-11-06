@@ -37,7 +37,7 @@
 ## 1. 프로젝트 설명
 프로젝트명: __SLAM을 활용한 병원 자율주행 서비스 로봇__
 
-![프로젝트 설명 ppt](https://github.com/seoyeonkim3/GADO/blob/main/files/WBS.png?raw=true)
+![프로젝트 설명 ppt](https://github.com/seoyeonkim3/GADO/blob/ec8f1770334069e1337b5ce424ee6e2b23e48f90/files/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EB%AA%85%20ppt.pdf)
 
 ## 2. 프로젝트 포스터
 
