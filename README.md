@@ -18,13 +18,11 @@
    |음성 처리 기술, 얼굴 인식, GUI|자율주행, 구동 GUI|자율주행, 구동 GUI|
 
 - 프로젝트 진행 과정
-  
-  (WBS 이미지)
+  ![WBS](https://github.com/seoyeonkim3/GADO/blob/main/files/WBS.png?raw=true)
 
 ## 1. 프로젝트 설명
-__SLAM을 활용한 병원 자율주행 서비스 로봇__
+프로젝트명: __SLAM을 활용한 병원 자율주행 서비스 로봇__
 
-(심사기준 내용 드러나도록)
 
 ## 2. 프로젝트 포스터
 
