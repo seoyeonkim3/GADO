@@ -34,11 +34,24 @@
 - 프로젝트 진행 과정
   ![WBS](https://github.com/seoyeonkim3/GADO/blob/main/files/WBS.png?raw=true)
 
-## 1. 프로젝트 설명
+## 1. 프로젝트 소개
 프로젝트명: __SLAM을 활용한 병원 자율주행 서비스 로봇__
 
-[프로젝트 설명 ppt](https://github.com/seoyeonkim3/GADO/blob/ec8f1770334069e1337b5ce424ee6e2b23e48f90/files/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EB%AA%85%20ppt.pdf)
+[프로젝트 설명 ppt 링크](https://github.com/seoyeonkim3/GADO/blob/ec8f1770334069e1337b5ce424ee6e2b23e48f90/files/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EB%AA%85%20ppt.pdf)
 
+- 포스토에 표현되지 못한 내용
+  <p align="left">
+   <img src="https://drive.google.com/file/d/1RzCN-kMgo8m2z78jVxVCYLu9kBeP4bMK/view?usp=sharing" align="center" width="32%">
+   <img src="https://drive.google.com/file/d/1p0ceeIjkO-n1x8AL_DJILZUkvppBSU3w/view?usp=sharing" align="center" width="32%">
+   <figcaption align="center">
+  </p>
+    <p align="c">
+   <img src="https://github.com/seoyeonkim3/GADO/blob/ac3b3cf1663bee33f419df7431931ef36d5e1d9c/files/3.%20%EC%82%AC%EC%97%85%ED%99%94%20%EB%B0%A9%ED%96%A5.jpg" align="center" width="32%">
+   <img src="https://github.com/seoyeonkim3/GADO/blob/ac3b3cf1663bee33f419df7431931ef36d5e1d9c/files/4.%20%EB%AF%B8%EB%9E%98%20%EC%8B%A0%EC%82%B0%EC%97%85%20%EB%B6%80%ED%95%A9%EB%8F%84.jpg" align="center" width="32%">
+   <figcaption align="center">
+  </p>
+   
+  
 ## 2. 프로젝트 포스터
 
 
