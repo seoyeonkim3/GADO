@@ -41,8 +41,8 @@
 
 - 포스토에 표현되지 못한 내용
   <p align="left">
-   <img src="https://drive.google.com/file/d/1RzCN-kMgo8m2z78jVxVCYLu9kBeP4bMK/view?usp=sharing" align="center" width="32%">
-   <img src="https://drive.google.com/file/d/1p0ceeIjkO-n1x8AL_DJILZUkvppBSU3w/view?usp=sharing" align="center" width="32%">
+   <img src="https://github.com/seoyeonkim3/GADO/blob/3773453a75eecfab58e8182787328e46987bde49/files/2.3%20%EB%8B%A4%ED%95%99%EC%A0%9C%EC%A0%81%20%EC%A0%91%EA%B7%BC1.jpg" align="center" width="32%">
+   <img src="https://github.com/seoyeonkim3/GADO/blob/3773453a75eecfab58e8182787328e46987bde49/files/2.3%20%EB%8B%A4%ED%95%99%EC%A0%9C%EC%A0%81%20%EC%A0%91%EA%B7%BC2.jpg" align="center" width="32%">
    <figcaption align="center">
   </p>
     <p align="c">
