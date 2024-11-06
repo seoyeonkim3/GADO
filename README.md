@@ -41,12 +41,8 @@
   </p>
    
   더 자세한 내용: [프로젝트 설명 ppt 링크](https://github.com/seoyeonkim3/GADO/blob/ec8f1770334069e1337b5ce424ee6e2b23e48f90/files/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EB%AA%85%20ppt.pdf)
-## 2. 프로젝트 포스터
-  <p align="left">
-   <img src="https://github.com/seoyeonkim3/GADO/blob/f036e1daea2135f57e5dc5ca8eaf7bde0f9f2de3/files/%ED%8F%AC%EC%8A%A4%ED%84%B0.png" align="center" width="32%">
-   <figcaption align="center">
-  </p>
-    
+
+## 2. 프로젝트 포스터   
 ![포스터](https://github.com/seoyeonkim3/GADO/blob/f036e1daea2135f57e5dc5ca8eaf7bde0f9f2de3/files/%ED%8F%AC%EC%8A%A4%ED%84%B0.png)
 
 ## 3. 시연 영상
