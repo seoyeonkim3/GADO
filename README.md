@@ -13,23 +13,6 @@
    병원 내에서 Guide와 Deliver을 Autonomous하게 수행하여 Optimal한 서비스를 제공하는 병원 토탈 서비스 로봇을 개발하였습니다.
    
  - 팀원
-<table style="width: 100%; text-align: center;">
-  <tr>
-    <td colspan="3" style="text-align: center;">이화여자대학교 휴먼기계바이오공학부</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">남현수</td>
-    <td style="text-align: center;">임승원</td>
-    <td style="text-align: center;">김서연</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">음성 처리 기술, 얼굴 인식, GUI</td>
-    <td style="text-align: center;">자율주행, 구동 GUI</td>
-    <td style="text-align: center;">자율주행, 구동 GUI</td>
-  </tr>
-</table>
-
-
    <table>
     <tr>
       <td colspan="3"> 이화여자대학교 휴먼기계바이오공학부 </td>
@@ -42,8 +25,8 @@
      <td> 자율주행, 구동 GUI </td>
      <td> 자율주행, 구동 GUI </td>
    </table>
-   |이화여자대학교 휴먼기계바이오공학부|
-   |:---:|:---:|:---:|
+   이화여자대학교 휴먼기계바이오공학부
+   
    |남현수|임승원|김서연|
    |:---:|:---:|:---:|
    |음성 처리 기술, 얼굴 인식, GUI|자율주행, 구동 GUI|자율주행, 구동 GUI|
