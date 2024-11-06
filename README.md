@@ -39,7 +39,7 @@
 
 [프로젝트 설명 ppt 링크](https://github.com/seoyeonkim3/GADO/blob/ec8f1770334069e1337b5ce424ee6e2b23e48f90/files/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EB%AA%85%20ppt.pdf)
 
-- 포스토에 표현되지 못한 내용
+- 포스토에 표현되지 못한 ppt 내용
   <p align="left">
    <img src="https://github.com/seoyeonkim3/GADO/blob/3773453a75eecfab58e8182787328e46987bde49/files/2.3%20%EB%8B%A4%ED%95%99%EC%A0%9C%EC%A0%81%20%EC%A0%91%EA%B7%BC1.jpg" align="center" width="32%">
    <img src="https://github.com/seoyeonkim3/GADO/blob/3773453a75eecfab58e8182787328e46987bde49/files/2.3%20%EB%8B%A4%ED%95%99%EC%A0%9C%EC%A0%81%20%EC%A0%91%EA%B7%BC2.jpg" align="center" width="32%">
