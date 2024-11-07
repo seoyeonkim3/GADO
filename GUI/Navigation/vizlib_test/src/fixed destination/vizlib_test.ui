@@ -1,0 +1,16 @@
+<widget class="QLineEdit" name="lineEdit_goal_x">
+    <property name="placeholderText">
+        <string>Goal X</string>
+    </property>
+    <property name="enabled">
+        <bool>false</bool> <!-- 비활성화 -->
+    </property>
+</widget>
+<widget class="QLineEdit" name="lineEdit_goal_y">
+    <property name="placeholderText">
+        <string>Goal Y</string>
+    </property>
+    <property name="enabled">
+        <bool>false</bool> <!-- 비활성화 -->
+    </property>
+</widget>
