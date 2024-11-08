@@ -13,11 +13,10 @@
    병원 내에서 **Guide**와 **Deliver**을 **Autonomous**하게 수행하여 **Optimal**한 서비스를 제공하는 병원 토탈 서비스 로봇을 개발하였습니다.
    
  - 팀원
-   
    이화여자대학교 휴먼기계바이오공학부
    |남현수|임승원|김서연|
    |:---:|:---:|:---:|
-   |음성 처리 기술, 얼굴 인식, GUI|자율주행, 구동 GUI|자율주행, 구동 GUI|
+   |음성 처리 기술, 얼굴 인식, GUI|자율주행, Navigation GUI|자율주행, Navigation GUI|
 
 - 프로젝트 진행 과정
   ![WBS](https://github.com/seoyeonkim3/GADO/blob/main/files/WBS.png?raw=true)
